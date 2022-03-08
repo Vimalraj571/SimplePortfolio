@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    font-family: 'Work Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-image: url('./bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35%;
+    color: white;
+}
+
+.leftText {
+    float: left;
+}
+
+.rightText {
+    float: right;
+}
+
+.menu-left {
+    padding: 10px;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.custom-img {
+    overflow: hidden
+}
+
+.dev-name {
+    font-size: 80px;
+    text-align: center;
+    padding: 100px;
+}
+
+.custom-section {
+    width: auto;
+    height: 59%;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+}
+
+.title-page {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text-page {
+    padding-left: 20%;
+    font-size: 25px;
+    padding-right: 20%;
+}
